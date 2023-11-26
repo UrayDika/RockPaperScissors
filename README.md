@@ -4,7 +4,7 @@ Pada kesempatan kali ini akan dijelaskan mengenai klasifikasi gambar untuk perma
 
 Proyek ini adalah proyek akhir setelah mengikuti kelas Belajar Machine Learning untuk Pemula dari Dicoding.
 
-###Cara menjalankan notebook ini:
+### Cara menjalankan notebook ini:
   1. Unduh dataset
   2. Augmentasi gambar dan data generator
   3. Pembuatan model CNN
